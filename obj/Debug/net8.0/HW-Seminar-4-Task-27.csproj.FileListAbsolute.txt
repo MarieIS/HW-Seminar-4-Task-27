@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\bin\Debug\net8.0\HW-Seminar-4-Task-27.exe
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\bin\Debug\net8.0\HW-Seminar-4-Task-27.deps.json
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\bin\Debug\net8.0\HW-Seminar-4-Task-27.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\bin\Debug\net8.0\HW-Seminar-4-Task-27.dll
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\bin\Debug\net8.0\HW-Seminar-4-Task-27.pdb
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.sourcelink.json
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.dll
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\refint\HW-Seminar-4-Task-27.dll
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.pdb
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\HW-Seminar-4-Task-27.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\fourth\task27\HW-Seminar-4-Task-27\obj\Debug\net8.0\ref\HW-Seminar-4-Task-27.dll
